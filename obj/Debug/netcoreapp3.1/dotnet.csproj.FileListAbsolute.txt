@@ -1,0 +1,11 @@
+/Users/marcus/Projekte/dotnet/obj/Debug/netcoreapp3.1/dotnet.csprojAssemblyReference.cache
+/Users/marcus/Projekte/dotnet/obj/Debug/netcoreapp3.1/dotnet.AssemblyInfoInputs.cache
+/Users/marcus/Projekte/dotnet/obj/Debug/netcoreapp3.1/dotnet.AssemblyInfo.cs
+/Users/marcus/Projekte/dotnet/bin/Debug/netcoreapp3.1/dotnet
+/Users/marcus/Projekte/dotnet/bin/Debug/netcoreapp3.1/dotnet.deps.json
+/Users/marcus/Projekte/dotnet/bin/Debug/netcoreapp3.1/dotnet.runtimeconfig.json
+/Users/marcus/Projekte/dotnet/bin/Debug/netcoreapp3.1/dotnet.runtimeconfig.dev.json
+/Users/marcus/Projekte/dotnet/bin/Debug/netcoreapp3.1/dotnet.dll
+/Users/marcus/Projekte/dotnet/bin/Debug/netcoreapp3.1/dotnet.pdb
+/Users/marcus/Projekte/dotnet/obj/Debug/netcoreapp3.1/dotnet.dll
+/Users/marcus/Projekte/dotnet/obj/Debug/netcoreapp3.1/dotnet.pdb

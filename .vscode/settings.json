@@ -1,0 +1,6 @@
+{
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "editor.minimap.scale": 3,
+    "editor.minimap.size": "fill"
+}
